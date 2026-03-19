@@ -32,21 +32,29 @@ The API exposes the following RESTful endpoints, which can be tested directly vi
       <img src="screenshot/create.png">
       <img src="screenshot/create2.png">
     </td>
+   </tr>
+   <tr>
     <td>Get Book</td>
     <td colspan="3">
       <img src="screenshot/getbook.png">
     </td>
+   </tr>
+   <tr>
     <td>Get Books</td>
     <td colspan="3">
       <img src="screenshot/getbooks.png">
     </td>
+   </tr>
+   <tr>
    <td>Update Book</td>
     <td colspan="3">
       <img src="screenshot/update.png">
     </td>
+   </tr>
+   <tr>
     <td>Delete Book</td>
     <td colspan="3">
       <img src="screenshot/delete.png">
     </td>
-  </tr>
+   </tr>
 </table>
