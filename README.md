@@ -1,6 +1,6 @@
 # Overview
 
-This is a Library Management Web API built with .NET 8 and Entity Framework Core. It provides a robust backend for managing a book inventory, featuring full CRUD operations and data validation.
+This is a Library Management Web API built with .NET 8 and Entity Framework Core. It provides a backend for managing a book inventory, featuring full CRUD operations and data validation.
 
 # Features
 The API exposes the following RESTful endpoints, which can be tested directly via the built-in Swagger UI:
@@ -14,8 +14,8 @@ The API exposes the following RESTful endpoints, which can be tested directly vi
 
 # Platform
 - Developed using .NET 8.0, C#, Entity Framework Core
-- Database used for this development is SQL Server.
-- Documentation: Swagger (OpenAPI)
+- Database: InMemory Provider
+- Documentation: Swagger / OpenApi
 
 # Snippets of this project
 
