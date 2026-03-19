@@ -12,9 +12,6 @@ The API exposes the following RESTful endpoints, which can be tested directly vi
    - PUT /api/Books/{id}: Update the details of an existing book.
    - DELETE /api/Books/{id}: Permanently remove a book record from the database.
 
-2. Data & Architecture
-   - Add new assignment entries to the database
-
 # Platform
 - Developed using .NET 8.0, C#, Entity Framework Core
 - Database used for this development is SQL Server.
@@ -24,17 +21,32 @@ The API exposes the following RESTful endpoints, which can be tested directly vi
 
 <table border="1">
   <tr>
-    <td>Dashboard</td>
+    <td>Main Page</td>
     <td colspan="3">
-      <img src="UI/Dashboard.png" style="display:block; margin:10px 0;">
-      <img src="UI/Edit.png" style="display:block; margin:10px 0;">
-      <img src="UI/Delete.png" style="display:block; margin:10px 0;">
+      <img src="screenshot=/main.png" style="display:block; margin:10px 0;">
     </td>
   </tr>
   <tr>
-    <td>Create Assignment</td>
+    <td>Create Book</td>
     <td colspan="3">
-      <img src="UI/CreateAssignment.png">
+      <img src="screenshot/create.png">
+      <img src="screenshot/create2.png">
+    </td>
+    <td>Get Book</td>
+    <td colspan="3">
+      <img src="screenshot/getbook.png">
+    </td>
+    <td>Get Books</td>
+    <td colspan="3">
+      <img src="screenshot/getbooks.png">
+    </td>
+   <td>Update Book</td>
+    <td colspan="3">
+      <img src="screenshot/update.png">
+    </td>
+    <td>Delete Book</td>
+    <td colspan="3">
+      <img src="screenshot/delete.png">
     </td>
   </tr>
 </table>
